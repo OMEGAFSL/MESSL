@@ -1,11 +1,9 @@
 # MESSL
 ### Multiform Ensemble Self-Supervised Learning for Few-Shot Remote Sensing Scene Classification
 
-This repository contains the official implementation of Multiform Ensemble Self-Supervised Learning for Few-Shot Remote Sensing Scene Classification (MESSL),which propose a novel multiform ensemble self-supervised
-learning ($MES^2L$) framework for few-shot remote sensing scene
-classification.The proposed $MES^2L$
-achieves state-of-the-art (SOTA) results on three commonly
-used remote sensing scene classification datasets.You can use this repository for testing, and we will sort out and upload the rest of the code.
+This repository contains the official implementation of Multiform Ensemble Self-Supervised Learning for Few-Shot Remote Sensing Scene Classification (MES2L).
+
+You can use this repository for testing, and we will sort out and upload the rest of the code.
 
 ### Requirements
 
