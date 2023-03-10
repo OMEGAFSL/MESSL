@@ -22,7 +22,7 @@ you can run `pip3 install -r requirements.txt` to install all the packages.
 
 ### Datasets
 
-For the testing experiments,we used 3 public dataset as following,NWPU RESISC45,UC Merced and WHU-RS19.And we divided these datasets into 3 subsets, training, validation and test set,the number of categories for subsets of each dataset is as follows:
+For the testing experiments, we used 3 public dataset as following, NWPU RESISC45, UC Merced and WHU-RS19. And we divided these datasets into 3 subsets, training, validation and test set,the number of categories for subsets of each dataset is as follows:
 
 ##### NWPU RESISC45
 
